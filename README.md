@@ -1,3 +1,8 @@
+![Github stats](https://github-readme-stats.vercel.app/api?username=charleadrien24&count_private=true&theme=tokyonight&show_icons=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charleadrien24&layout=compact&theme=tokyonight)
+
+
 - 👋 Hi, I’m @charlesadrien24
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
